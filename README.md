@@ -8,4 +8,4 @@ Die Stunde haben wir damit begonnen, dass wir uns zuerst angeschaut haben, welch
 Um wirklich starten zu können mit dem Programmieren eines Spiel, haben wir das Package "pygame" in unsere Datei installiert.
 
 ### 17.01.2023
-In dieser Stunde haben wir uns überlegt, welche Art eines Spiels wir machen wollen. Vorerst konnten wir uns nicht auf ein Spiel einigen, jedoch konnten wir es schon auf kein 1st-Person Spiele begrenzen.
+In dieser Stunde haben wir uns überlegt, welche Art eines Spiels wir machen wollen. wir haben uns für eine Art Pizzeria-Spiel entschieden. Die grobe Idee ist, eine Pizzeria zu haben, in der der Spieler Kunden bedienen muss. Der Kundenauftrag wird dabei immer eine Kombination aus verschiedenen Zutaten für die Pizza sein. Für die nächste Stunde nehmen wir uns vor, die Idee weiter auszuarbeiten und einen Arbeitsplan zu erstellen.
