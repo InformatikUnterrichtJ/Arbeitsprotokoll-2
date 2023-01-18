@@ -8,4 +8,7 @@ Die Stunde haben wir damit begonnen, dass wir uns zuerst angeschaut haben, welch
 Um wirklich starten zu können mit dem Programmieren eines Spiel, haben wir das Package "pygame" in unsere Datei installiert.
 
 ### 17.01.2023
-In dieser Stunde haben wir uns überlegt, welche Art eines Spiels wir machen wollen. wir haben uns für eine Art Pizzeria-Spiel entschieden. Die grobe Idee ist, eine Pizzeria zu haben, in der der Spieler Kunden bedienen muss. Der Kundenauftrag wird dabei immer eine Kombination aus verschiedenen Zutaten für die Pizza sein. Für die nächste Stunde nehmen wir uns vor, die Idee weiter auszuarbeiten und einen Arbeitsplan zu erstellen.
+In dieser Stunde haben wir uns überlegt, welche Art eines Spiels wir machen wollen. wir haben uns für eine Art Pizzeria-Spiel entschieden. Die grobe Idee ist, eine Pizzeria zu haben, in der der Spieler Kunden bedienen muss. Der Kundenauftrag wird dabei immer eine Kombination aus verschiedenen Zutaten für die Pizza sein. Für die nächste Stunde nehmen wir uns vor, die Idee weiter auszuarbeiten und einen Arbeitsplan zu erstellen. 
+
+### 18.01.2023
+In der heutigen Doppelstunde haben wir wie schon erwähnt, uns dem Arbeitsplan zugewendet und unsere Spielidee präzisiert. Wir haben uns für ein 2D-Spiel entschieden, indem man als Kellner und Koch die von den Kunden gewünschten Pizzen zubereitet. Hierfür haben wir uns auf sechs verschiedene Pizza Arten entschieden, für die man als Spieler die nötigen Zutaten auf die Arbeitsfläche ziehen muss. Dies möchten wir in Python programmieren. Und nachdem wir heute die Spielidee ausgearbeitet haben, widmen wir uns nächste Stunde dem Arbeitsplan.
