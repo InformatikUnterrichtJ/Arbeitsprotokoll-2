@@ -15,3 +15,8 @@ In der heutigen Doppelstunde haben wir wie schon erwähnt, uns dem Arbeitsplan z
 
 ![Spielidee](Pizzeria.pdf "Spielidee")
 
+### 24.01.2023
+- angeschaut wie man mit pygame beginnt
+- angeschaut wie die orientierung funktioniert
+- paula war nicht da aufgrund eines Arzttermins
+- pdf zu 18 hinzugefügt
