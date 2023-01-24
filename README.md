@@ -12,3 +12,11 @@ In dieser Stunde haben wir uns überlegt, welche Art eines Spiels wir machen wol
 
 ### 18.01.2023
 In der heutigen Doppelstunde haben wir wie schon erwähnt, uns dem Arbeitsplan zugewendet und unsere Spielidee präzisiert. Wir haben uns für ein 2D-Spiel entschieden, indem man als Kellner und Koch die von den Kunden gewünschten Pizzen zubereitet. Hierfür haben wir uns auf sechs verschiedene Pizza Arten entschieden, für die man als Spieler die nötigen Zutaten auf die Arbeitsfläche ziehen muss. Dies möchten wir in Python programmieren. Und nachdem wir heute die Spielidee ausgearbeitet haben, widmen wir uns nächste Stunde dem Arbeitsplan.
+
+<details>
+<summary> Bild zum 19.10 </summary>
+
+![Arbeitsplan](Pizzeria.pdf "Arbeitsplan")
+
+ </details>
+
