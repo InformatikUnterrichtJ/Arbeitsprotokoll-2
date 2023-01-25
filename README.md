@@ -16,7 +16,7 @@ In der heutigen Doppelstunde haben wir wie schon erwähnt, uns dem Arbeitsplan z
 ![Spielidee](Pizzeria.pdf "Spielidee")
 
 ### 24.01.2023
-- angeschaut wie man mit pygame beginnt
-- angeschaut wie die orientierung funktioniert
-- paula war nicht da aufgrund eines Arzttermins
-- pdf zu 18 hinzugefügt
+Da Paula aufgrund eines Arztbesuchs nicht in der Schule war, habe ich zuerst die pdf-Datei für den 18.01.2023 hinzugefügt und anschließend mich alleine weiter über die Programmiersprache "Python" zu informieren, damit wir herausfinden welche Codeelemente wir für unser Spiel benötigen. Hierfür habe ich mich darüber informiertm, wie man mit pyGame beginnt und wie die Orientierung auf dem Bildschirm funktioniert. Beim Ausprobieren hat leider nocfh nicht alles gut funktioniert. In der nächsten Stunde ist das Zielo nun eine Bühne für unser Spiel zu kreieren und somit den Grundbaustein zu legen.
+
+### 25.01.2023
+Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich zuerst nur Stichpunktartig festgehalten habe, nachgeholt werden. Dannach habe ich mich wieder dem kreeieren einer Bühne gewidmet. Paula war in dieser Stunde krank.
