@@ -20,3 +20,9 @@ Da Paula aufgrund eines Arztbesuchs nicht in der Schule war, habe ich zuerst die
 
 ### 25.01.2023
 Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich zuerst nur Stichpunktartig festgehalten habe, nachgeholt werden. Dannach habe ich mich wieder dem kreeieren einer Bühne gewidmet und konnte zusätzlich mit der Schleife für das Hauptprogramm beginnen. Leider konnte ich einen Fehler im Programm aus Zeitgründen nicht mehr beheben. Dieser wird somit der Anhaltspunkt für die nächste Stunde. Paula war in dieser Stunde krank.
+<details>
+<summary> Bild zum 12.10 </summary>
+
+![Bild](Screenshot (1).png"Bild")
+
+ </details>
