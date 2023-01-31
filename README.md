@@ -23,4 +23,4 @@ Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich 
 <details>
 <summary> Bild zum 25.01 </summary>
 
-![Bild](Screenshot (1).png)
+![Bild](Screenshot25.01.png)
