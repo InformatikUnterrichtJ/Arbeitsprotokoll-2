@@ -24,3 +24,6 @@ Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich 
 <summary> Bild zum 25.01 </summary>
 
 ![Bild](Screenshot25.01.png)
+  
+### 31.01.2023
+Heute haben wir uns mit dem verbleibendem Fehler im Code beschäftigt und diesen erfolgreich gelöst bekommen. Anschließend haben wir Ideen für das Layout gesammelt, um dieses demnächst einfügen zu können.
