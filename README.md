@@ -23,6 +23,6 @@ Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich 
 <details>
 <summary> Bild zum 12.10 </summary>
 
-![Bild](Screenshot (1).png"Bild")
+![Bild](Screenshot (1).png "Bild")
 
  </details>
