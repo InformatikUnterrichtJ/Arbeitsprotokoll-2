@@ -27,3 +27,10 @@ Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich 
   
 ### 31.01.2023
 Heute haben wir uns mit dem verbleibendem Fehler im Code beschäftigt und diesen erfolgreich gelöst bekommen. Anschließend haben wir Ideen für das Layout gesammelt, um dieses demnächst einfügen zu können.
+
+### 01.02.2023
+Zuerst haben wir die Aktuallisierung am Ende des Spiels programmiert. Somit war das Grundgerüsst für unser Spiel fertig. Zusätzlich haben wir die Spielfiguren erstellt. Bei diesen fehlen jedoch noch die Bilder, welche wir nun erstellen müssen und anschließend einfügen werden. In dieser Stunde haben wir bereits mit den ersten Bildern für die Zutaten begonnen.
+<details>
+<summary> Bild zum 01.02 </summary>
+
+![Bild](Screenshot01.02.png)
