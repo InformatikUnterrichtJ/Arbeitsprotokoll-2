@@ -34,3 +34,6 @@ Zuerst haben wir die Aktuallisierung am Ende des Spiels programmiert. Somit war 
 <summary> Bild zum 01.02 </summary>
 
 ![Bild](Screenshot01.02.png)
+
+### 08.02.2023
+In dieser Unterrichtsstunde
