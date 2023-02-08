@@ -36,4 +36,4 @@ Zuerst haben wir die Aktuallisierung am Ende des Spiels programmiert. Somit war 
 ![Bild](Screenshot01.02.png)
 
 ### 08.02.2023
-In dieser Unterrichtsstunde
+In dieser Unterrichtsstunde haben wir uns wieder den Bildern der Zutaten zugewendet und haben auf Julianes Ipad schon den Käse, die Tomatensauce und den Basilikum kreiert. In den nachfolgenden Stunden werden wir Dies weiterführen.
