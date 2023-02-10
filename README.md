@@ -25,7 +25,7 @@ Zum Beginn der Stunde musste zuerst der GitHub-Beitrag vom letzten Mal, den ich 
 
 ![Bild](Screenshot25.01.png)
   
-<summary>
+</details>
   
 ### 31.01.2023
 Heute haben wir uns mit dem verbleibendem Fehler im Code beschäftigt und diesen erfolgreich gelöst bekommen. Anschließend haben wir Ideen für das Layout gesammelt, um dieses demnächst einfügen zu können.
@@ -37,7 +37,7 @@ Zuerst haben wir die Aktuallisierung am Ende des Spiels programmiert. Somit war 
 
 ![Bild](Screenshot01.02.png)
  
-<summary>
+</details>
 
 ### 08.02.2023
 In dieser Unterrichtsstunde haben wir uns wieder den Bildern der Zutaten zugewendet und haben auf Julianes Ipad schon den Käse, die Tomatensauce und den Basilikum kreiert. In den nachfolgenden Stunden werden wir Dies weiterführen.
