@@ -41,3 +41,11 @@ Zuerst haben wir die Aktuallisierung am Ende des Spiels programmiert. Somit war 
 
 ### 08.02.2023
 In dieser Unterrichtsstunde haben wir uns wieder den Bildern der Zutaten zugewendet und haben auf Julianes Ipad schon den Käse, die Tomatensauce und den Basilikum kreiert. In den nachfolgenden Stunden werden wir Dies weiterführen.
+
+### 10.02.2023
+Paula war in dieser Stunde krank. Zuerst habe ich weiter die Spielfiguren gemalt, womit ich auch in der Doppelstunde fertig werden wollte, jedoch hat das Programm, welches wir zum Malen benutzen, nach weniger Zeit gebuggt. Folghlich habe ich mich dem Main-Loop unseres Spiels zugewandt. Die ersten Schritte (Aufbau und Wiederholzung der Bestellungen) waren bereits fertig, doch sind diese Ergebnisse leider verloren gegangen, als die Sicherrung raus ist und die PCs abgestürzt sind.
+
+### 15.02.2023
+Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, keine Funktioniert. Jedoch funktionierte mindestens eine Maus beim benachbarten Computer. Folglich haben wir den Computer neu gestartet, woraufhin dieser eine Akktualisierung machte. Diese hat enorm lange gedauert, weshalb wir parallel begonnen haben auf den IPad die restlichen Spielfiguren zu malen. Als der Computer fertig war mit der Akktualisierung und der erbenfalls lang gedauerten Installierung der Updates, war nur noch Zeit dafür, diesen Blockeintrag und den der letzten Stunde am 10.02.2023 zu verfassen. Aus der Stunde geht hervor, dass wir in der nächsten Stunde zuerst die Spielfiguren in den Code einfügenm müssen, wozu diese zuerst passend formatiert werden müssen. Die beigefügte Datei zeigt die gemalten Spielfiguren noch in der falschen Dateiform und alle in einer Datei.
+<details>
+<summary> Die gemalten Spielfiguren </summary>
