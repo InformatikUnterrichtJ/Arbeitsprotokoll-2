@@ -49,7 +49,7 @@ Paula war in dieser Stunde krank. Zuerst habe ich weiter die Spielfiguren gemalt
 Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, keine funktioniert. Jedoch funktionierte mindestens eine Maus beim benachbarten Computer. Folglich haben wir den Computer neu gestartet, woraufhin dieser eine Akktualisierung machte. Diese hat enorm lange gedauert, weshalb wir parallel begonnen haben auf den IPad die restlichen Spielfiguren zu malen. Als der Computer fertig war mit der Akktualisierung und der erbenfalls lang gedauerten Installierung der Updates, war nur noch Zeit dafür, diesen Blockeintrag und den der letzten Stunde am 10.02.2023 zu verfassen. Aus der Stunde geht hervor, dass wir in der nächsten Stunde zuerst die Spielfiguren in den Code einfügen müssen, wozu diese zuerst passend formatiert werden müssen. Die beigefügte Datei zeigt die gemalten Spielfiguren noch in der falschen Dateiform und alle in einer Datei.
 <details>
 <summary> Die gemalten Spielfiguren </summary>
-
+</details>
 ### 22.02.2023
 ### 24.02.2023
 ### 01.03.2023
