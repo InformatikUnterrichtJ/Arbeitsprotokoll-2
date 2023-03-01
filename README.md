@@ -50,6 +50,7 @@ Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, kei
 <details>
 <summary> Die gemalten Spielfiguren </summary>
 </details>
+
 ### 22.02.2023
 ### 24.02.2023
 ### 01.03.2023
