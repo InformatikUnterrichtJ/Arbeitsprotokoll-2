@@ -57,3 +57,4 @@ Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, kei
 ### 03.03.2023
 (Distanzlerntag)
 ### 08.03.2023
+### 10.03.2023
