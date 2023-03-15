@@ -53,9 +53,14 @@ Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, kei
 
 ### 22.02.2023
 ### 24.02.2023
+Entschieden die Spielidee etwas zu verkürzen! -> neue Spielidee
 ### 01.03.2023
+Bestellung
 ### 03.03.2023
+Zufallsauswahl
 (Distanzlerntag)
 ### 08.03.2023
+Steuerung
 ### 10.03.2023
+Rest der Steuerung
 ### 15.03.2023
