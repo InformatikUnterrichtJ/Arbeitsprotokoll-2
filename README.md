@@ -57,7 +57,7 @@ Entschieden die Spielidee etwas zu verkürzen! -> neue Spielidee
 ### 01.03.2023
 Bestellung
 ### 03.03.2023
-Zufallsauswahl
+Zufallsauswahls
 (Distanzlerntag)
 ### 08.03.2023
 Steuerung
