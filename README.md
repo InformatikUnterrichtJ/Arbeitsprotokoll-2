@@ -61,11 +61,11 @@ In dieser Stunde haben wir damit begonnen, die Spielschleife zu programmieren, b
 </details>
 
 ### 24.02.2023
-In der heutigen Doppelstunde haben wir uns dem Standbildschirm gewidmet und dementsprechend ein passendes Hintergrundbild für unser Spiel gesucht. Daraufhin haben wir uns für einen einfachen Holzhintergrund entschieden. Für die Sprechblase und der Holztafel haben wir das gleiche gemacht und alles am Ende dann eingefügt. Außerdem haben wir auf Julianes Ipad eine Karte, auf der die Rezepte für die Pizzen draufstehen, skizziert. Der folgende Code verdeutlicht dies. Gleichzeitig haben wir die Koordinaten der einzelnen Sachen schon eingegeben. sc
+In der heutigen Doppelstunde haben wir uns dem Standbildschirm gewidmet und dementsprechend ein passendes Hintergrundbild für unser Spiel gesucht. Daraufhin haben wir uns für einen einfachen Holzhintergrund entschieden. Für die Sprechblase und der Holztafel haben wir das gleiche gemacht und alles am Ende dann eingefügt. Außerdem haben wir auf Julianes Ipad eine Karte, auf der die Rezepte für die Pizzen draufstehen, skizziert. Der folgende Code verdeutlicht dies. Gleichzeitig haben wir die Koordinaten der einzelnen Sachen schon eingegeben. 
 <details>
 <summary> Bild zum 24.02 </summary>
 
-![Bild](Screenshot1.png)
+![Bild](Screenshot7.png)
   
 </details>
 
@@ -77,6 +77,12 @@ https://online-photo-converter.com/download-page?download_link=L3VzZXItZmlsZXMvM
 
 ### 03.03.2023
 Heute war Distanzlerntag und wir haben uns getroffen, um das Spiel hinsichtlich der vorangeschrittenen Zeit fertigzustellen. Dies ist uns auch gelungen: Juliane hat sich darum gekümmert, dass die Zutaten mit der Mouse zu der Holzkiste hin gezogen werden können und dann darauf regristriert werden und auf der Holzkiste erscheinen. Währenddessen hat sich Paula um den Vorgang der Bestellung gekümmert. Somit gibt es vier verschiedene Pizza Wünsche, die zufällig auf der Sprechblase erscheinen. Außerdem wurden die vier Pizzen definiert.
+<details>
+<summary> Bild zum 24.02 </summary>
+
+![Bild](Screenshot7.png)
+  
+</details>
 ### 08.03.2023
 In dieser Stunde haben wir Verbesserungen für das Spiel vorgenommen, indem wir die Koordinaten der Zutaten, die auf der Holztafel erscheinen, noch mehr ausprobiert haben, damit sie sich möglichst nicht überlappen. Letztendlich sind wir dann hierauf gekommen:
 ### 10.03.2023
