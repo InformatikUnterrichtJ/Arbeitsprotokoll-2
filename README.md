@@ -78,18 +78,29 @@ https://online-photo-converter.com/download-page?download_link=L3VzZXItZmlsZXMvM
 ### 03.03.2023
 Heute war Distanzlerntag und wir haben uns getroffen, um das Spiel hinsichtlich der vorangeschrittenen Zeit fertigzustellen. Dies ist uns auch gelungen: Juliane hat sich darum gekümmert, dass die Zutaten mit der Mouse zu der Holzkiste hin gezogen werden können und dann darauf regristriert werden und auf der Holzkiste erscheinen. Währenddessen hat sich Paula um den Vorgang der Bestellung gekümmert. Somit gibt es vier verschiedene Pizza Wünsche, die zufällig auf der Sprechblase erscheinen. Außerdem wurden die vier Pizzen definiert. sc 11
 <details>
-<summary> Bild zum 24.02 </summary>
+<summary> Bild zum 03.03 </summary>
 
-![Bild](Screenshot 7.png)
+![Bild](Screenshot11.png)
   
 </details>
+
 ### 08.03.2023
 In dieser Stunde haben wir Verbesserungen für das Spiel vorgenommen, indem wir die Koordinaten der Zutaten, die auf der Holztafel erscheinen, noch mehr ausprobiert haben, damit sie sich möglichst nicht überlappen. Letztendlich sind wir dann hierauf gekommen:sc 10
+<details>
+<summary> Bild zum 08.03 </summary>
+
+![Bild](Screenshot10.png)
+  
+</details>
+
 ### 10.03.2023
 Heute haben wir die letzte Verbesserung vorgenommen, indem wir das Spielende noch so verändert haben, dass bei falscher Auswahl von Zutaten am Ende in roter Schrift "Der Kunde ist unzufrieden" erscheint. Vorher hatten wir das so, dass das Spiel einfach beendet wurde. Aber dadurch bekommt der Spieler noch eine neue Chance.
+
 ### 15.03.2023
 Da wir mit dem Spiel schon fertig waren, haben wir es unserern Klassenkameraden präsentiert und nach Verbesserungswünschen gefragt. Da gab es nicht wirklich welche, weshalb wir entscheiden haben, dass wir fertig sind.
+
 ### 17.03.2023
 Heute haben wir dann mit der Projektseite begonnen.
+
 ### 24.03.2023
 In diser Stunde haben wir mit der Projektseite weitergemacht.
