@@ -52,20 +52,28 @@ Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, kei
 </details>
 
 ### 22.02.2023
-Spielschleife angefangen ( screenshot1 davon 
+In dieser Stunde haben wir damit begonnen, die Spielschleife zu programmieren, bei der Ereignisse abgefragt werden. Wenn Escape gedrückt wird, dann wird das Spiel abgebrochen und wenn enter gedrückt wird, dann geht es entweder zur nächsten Bestellung oder das Spiel wird abgebrochen. Das kommt dann darauf an, ob die Bestelung richtig gemacht wurde oder nicht. scr 1
+<details>
+<summary> Bild zum 22.02 </summary>
+
+![Bild](Screenshot25.01.png)
+  
+</details>
+
 ### 24.02.2023
-Entschieden die Spielidee etwas zu verkürzen! -> neue Spielidee
-scrrenshot von dem teig in der ecke  + neue spielidee
+In der heutigen Doppelstunde haben wir uns dem Standbildschirm gewidmet und dementsprechend
 ### 01.03.2023
-Bestellung
+mit Teig begonnen dann das problem mit dem weißen rand behoeb
 
 ### 03.03.2023
-Zufallsauswahls
-(Distanzlerntag)
+heute war distanzlerntag und wir ahebn es so gut wie fertig programmiert
 ### 08.03.2023
-Steuerung
+verbesserungen vorgenommen
 ### 10.03.2023
-Rest der Steuerung
+verbesserungen vorgenommen
 ### 15.03.2023
+projektseite 
 ### 17.03.2023
+projektseite
 ### 24.03.2023
+projektseite
