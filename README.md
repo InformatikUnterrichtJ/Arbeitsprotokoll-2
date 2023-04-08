@@ -80,7 +80,7 @@ Heute war Distanzlerntag und wir haben uns getroffen, um das Spiel hinsichtlich 
 <details>
 <summary> Bild zum 24.02 </summary>
 
-![Bild](Screenshot7.png)
+![Bild](Screenshot 7.png)
   
 </details>
 ### 08.03.2023
