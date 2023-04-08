@@ -76,7 +76,7 @@ https://online-photo-converter.com/download-page?download_link=L3VzZXItZmlsZXMvM
 
 
 ### 03.03.2023
-Heute war Distanzlerntag und wir haben uns getroffen, um das Spiel hinsichtlich der vorangeschrittenen Zeit fertigzustellen. Dies ist uns auch gelungen: Juliane hat sich darum gekümmert, dass die Zutaten mit der Mouse zu der Holzkiste hin gezogen werden können und dann darauf regristriert werden und auf der Holzkiste erscheinen. Währenddessen hat sich Paula um den Vorgang der Bestellung gekümmert. Somit gibt es vier verschiedene Pizza Wünsche, die zufällig auf der Sprechblase erscheinen. Außerdem wurden die vier Pizzen definiert.
+Heute war Distanzlerntag und wir haben uns getroffen, um das Spiel hinsichtlich der vorangeschrittenen Zeit fertigzustellen. Dies ist uns auch gelungen: Juliane hat sich darum gekümmert, dass die Zutaten mit der Mouse zu der Holzkiste hin gezogen werden können und dann darauf regristriert werden und auf der Holzkiste erscheinen. Währenddessen hat sich Paula um den Vorgang der Bestellung gekümmert. Somit gibt es vier verschiedene Pizza Wünsche, die zufällig auf der Sprechblase erscheinen. Außerdem wurden die vier Pizzen definiert. sc 11
 <details>
 <summary> Bild zum 24.02 </summary>
 
@@ -84,7 +84,7 @@ Heute war Distanzlerntag und wir haben uns getroffen, um das Spiel hinsichtlich 
   
 </details>
 ### 08.03.2023
-In dieser Stunde haben wir Verbesserungen für das Spiel vorgenommen, indem wir die Koordinaten der Zutaten, die auf der Holztafel erscheinen, noch mehr ausprobiert haben, damit sie sich möglichst nicht überlappen. Letztendlich sind wir dann hierauf gekommen:
+In dieser Stunde haben wir Verbesserungen für das Spiel vorgenommen, indem wir die Koordinaten der Zutaten, die auf der Holztafel erscheinen, noch mehr ausprobiert haben, damit sie sich möglichst nicht überlappen. Letztendlich sind wir dann hierauf gekommen:sc 10
 ### 10.03.2023
 Heute haben wir die letzte Verbesserung vorgenommen, indem wir das Spielende noch so verändert haben, dass bei falscher Auswahl von Zutaten am Ende in roter Schrift "Der Kunde ist unzufrieden" erscheint. Vorher hatten wir das so, dass das Spiel einfach beendet wurde. Aber dadurch bekommt der Spieler noch eine neue Chance.
 ### 15.03.2023
