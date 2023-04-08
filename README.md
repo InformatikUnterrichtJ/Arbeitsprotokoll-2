@@ -56,7 +56,7 @@ In dieser Stunde haben wir damit begonnen, die Spielschleife zu programmieren, b
 <details>
 <summary> Bild zum 22.02 </summary>
 
-![Bild](Screenshot25.01.png)
+![Bild](Screenshot1.png)
   
 </details>
 
