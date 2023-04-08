@@ -52,10 +52,13 @@ Beim ersten Starten des PCs hat von drei Mäusen, die wir ausprobiert haben, kei
 </details>
 
 ### 22.02.2023
+Spielschleife angefangen ( screenshot1 davon 
 ### 24.02.2023
 Entschieden die Spielidee etwas zu verkürzen! -> neue Spielidee
+scrrenshot von dem teig in der ecke  + neue spielidee
 ### 01.03.2023
 Bestellung
+
 ### 03.03.2023
 Zufallsauswahls
 (Distanzlerntag)
